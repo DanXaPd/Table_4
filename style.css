@@ -1,0 +1,13 @@
+table{
+    background-color: aquamarine;
+    width: 1000px;
+    height: 250px;
+    margin: auto;
+    transition: all 0.3s;
+}
+h1{
+    text-align: center;
+}
+td:hover{
+    background-color: dodgerblue;
+}
